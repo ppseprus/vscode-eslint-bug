@@ -1,0 +1,11 @@
+{
+  "name": "vscode-eslint-issue",
+  "main": "main.js",
+  "type": "module",
+  "author": "ppseprus",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "eslint": "^9.5.0"
+  }
+}
