@@ -2,6 +2,8 @@
 
 In VSCode, when an incorrect config breaks the ESLint server, the "Restart ESLint Server" command does not work.
 
+https://github.com/eslint/eslint/issues/18592
+
 ## Versions
 Node version: 20.12.2
 npm version: 10.5.2
